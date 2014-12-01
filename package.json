@@ -1,0 +1,30 @@
+{
+    "name": "ErrorReporting",
+    "version": "0.1.0",
+    "private": true,
+    "main": "./lib/reporting",
+    "description": "ErrorReporting",
+    "scripts": {
+	"test": "make test"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git://github.com/SmartPlace/LogReporting.git"
+    },
+    "keywords": [
+	"error",
+	"reporting",
+	"log"
+    ],
+    "dependencies": {
+	"mongoose": "~3.8.19"
+    },
+    "author": "Hugo Marchadier <hugo.marchadier.pro@gmail.com>",
+    "bugs": {
+	"url": "https://github.com/SmartPlace/LogReporting/issues"
+    },
+    "devDependencies": {
+	"mocha": "~2.0.1",
+	"chai": "~1.10.0"
+    }
+}
