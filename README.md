@@ -6,7 +6,7 @@ LogReporting
 Installation
 ------------
 
-    git clone https://github.com/smartmarchah/LogReporting
+    git clone https://github.com/SmartPlace/LogReporting
     
 Usage
 -----
