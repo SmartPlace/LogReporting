@@ -1,9 +1,9 @@
 {
-    "name": "ErrorReporting",
+    "name": "LogReporting",
     "version": "0.1.0",
     "private": true,
     "main": "./lib/reporting",
-    "description": "ErrorReporting",
+    "description": "LogReporting",
     "scripts": {
 	"test": "make test"
     },
